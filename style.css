@@ -1,0 +1,42 @@
+body {
+    text-align: center;
+}
+
+button {
+    color: black;
+    border: 2px black solid;
+    border-radius: 500px;
+    background-color: white;
+    margin: 3px;
+}
+
+button:hover {
+    background-color: rgb(195, 190, 190);
+    cursor: pointer;
+    box-shadow: 2px;
+}
+
+p {
+    color: red;
+
+}
+
+.main_img {
+    width: 400px;
+}
+
+img {
+    width: 350px;
+    margin: 5px;
+
+}
+
+/* .box-div {
+    display: flex;
+    flex-direction: column;
+    width: 350px;
+    height: 150px;
+    margin: 5px;
+    background-color: lightgrey;
+    border: 3px solid green;
+} */
